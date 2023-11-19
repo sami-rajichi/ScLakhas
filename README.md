@@ -26,7 +26,7 @@ The LAKHAS architecture, originally designed for Arabic texts, is primarily base
 
 - **Extraction of N Most Weighted Phrases:** Obtain a concise summary by extracting the N most weighted phrases from the processed text.
 
-![System Architecture Diagram](./LAKHAS.PNG)
+<div align="center">![System Architecture Diagram](./LAKHAS.PNG)</div>
 
 ## Implementation Steps:
 
